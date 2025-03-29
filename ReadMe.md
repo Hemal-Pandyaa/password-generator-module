@@ -5,13 +5,13 @@ Supports multiple character types, entropy-based length, and avoids ambiguous ch
 
 ---
 
-## 🚀 **Features**
+## 🚀 Features
 
 ✅ Generate strong, random passwords.  
 ✅ Choose from uppercase, lowercase, numbers, and special characters.  
 ✅ Automatically calculate password length based on desired entropy.  
-✅ Avoid ambiguous characters (`0`, `O`, `1`, `l`, etc.) for better readability.  
-✅ Generate secure passphrases using random words.  
+✅ Avoid ambiguous characters (`0`, `O`, `1`, `l`, etc.) for better readability.
+
 ✅ Check the entropy of generated passwords.  
 ✅ Option to include/exclude character types dynamically.  
 ✅ Customizable length with error handling for small charsets.   
