@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0733a31e-acd4-45bb-a81b-80a03bccb02f" name="Changes" comment="Make generate_password function. Make entropy_calculation_function. Make tests" />
+    <list default="true" id="0733a31e-acd4-45bb-a81b-80a03bccb02f" name="Changes" comment="Make Setup.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -89,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743270032853</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Make Setup.py">
+      <option name="closed" value="true" />
+      <created>1743270515391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743270515391</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add ReadMe.md" />
     <MESSAGE value="Make generate_password function. Make entropy_calculation_function. Make tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make generate_password function. Make entropy_calculation_function. Make tests" />
+    <MESSAGE value="Make Setup.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make Setup.py" />
   </component>
 </project>
