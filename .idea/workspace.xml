@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0733a31e-acd4-45bb-a81b-80a03bccb02f" name="Changes" comment="Add ReadMe.md">
-      <change afterPath="$PROJECT_DIR$/password_generator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/password_generator/generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-    </list>
+    <list default="true" id="0733a31e-acd4-45bb-a81b-80a03bccb02f" name="Changes" comment="Make generate_password function. Make entropy_calculation_function. Make tests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743257540961</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Make generate_password function. Make entropy_calculation_function. Make tests">
+      <option name="closed" value="true" />
+      <created>1743270032853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743270032853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add ReadMe.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ReadMe.md" />
+    <MESSAGE value="Make generate_password function. Make entropy_calculation_function. Make tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make generate_password function. Make entropy_calculation_function. Make tests" />
   </component>
 </project>
